@@ -10,9 +10,11 @@ Self-balancing robots are unique among all others, just because of their ability
 • angle brackets
 • bolts ,nuts. • pin female, header pin, female jst pin
 ## Programming the Arduino
--> Software Installation: Install the Arduino IDE on your computer if you haven't already.
+Step 1:Mechanical setup : Assembled the components according to the circuit diagram.
 
--> Upload the code:
+Step 2.Software Installation: Install the Arduino IDE on your computer if you haven't already.
+
+Step 3.Upload the code:
 
 1. Open the Self_Balancing_robot.ino file in the Arduino IDE.
 2. Connect your Arduino board to your computer using a USB cable.
