@@ -11,6 +11,8 @@ Self-balancing robots are unique among all others, just because of their ability
 • bolts ,nuts. • pin female, header pin, female jst pin
 ## Applications
 1.Segway: Self-balancing unicycle, a self-powered unicycle that balances itself in three dimensions.
-2. Monocycle Is The World’s First Self Balancing Bike: The Monocycle is a perfect city bike that can be used for short distance travels and can be parked in the least available of spaces. Moreover, the bicycle comes with a strong electric motor to support the riders, so they need not push too hard to speed up the bike. 
+
+2. Monocycle Is The World’s First Self Balancing Bike: The Monocycle is a perfect city bike that can be used for short distance travels and can be parked in the least available of spaces. Moreover, the bicycle comes with a strong electric motor to support the riders, so they need not push too hard to speed up the bike.
+3. 
 3.Electric self-balance bike scooter/with Remote switch/balance bike: it’s a self- balancing electric bike which balance itself on its two wheels. 
 
