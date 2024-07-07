@@ -9,6 +9,15 @@ Self-balancing robots are unique among all others, just because of their ability
 •gyroscope sensor
 • angle brackets
 • bolts ,nuts. • pin female, header pin, female jst pin
+## Programming the Arduino
+Software Installation: Install the Arduino IDE on your computer if you haven't already. You can download it from the official Arduino website.
+Upload the code:
+1.Open the Self_Balancing_robot.ino file in the Arduino IDE.
+2.Connect your Arduino board to your computer using a USB cable.
+3.Select the correct board and port in the Arduino IDE (Tools > Board and Port).
+4.Click the upload button (right arrow icon) in the IDE to compile and upload the code to your Arduino.
+
+
 ## Applications
 1.Segway: Self-balancing unicycle, a self-powered unicycle that balances itself in three dimensions.
 
